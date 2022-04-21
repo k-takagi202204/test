@@ -1187,21 +1187,17 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\042-katsuya-takagi\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\042-katsuya-takagi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\github\\BlazorApp1\\Client\\BlazorApp1.Client.csproj",
+      "projectUniqueName": "C:\\Github\\test\\Client\\BlazorApp1.Client.csproj",
       "projectName": "BlazorApp1.Client",
-      "projectPath": "C:\\github\\BlazorApp1\\Client\\BlazorApp1.Client.csproj",
+      "projectPath": "C:\\Github\\test\\Client\\BlazorApp1.Client.csproj",
       "packagesPath": "C:\\Users\\042-katsuya-takagi\\.nuget\\packages\\",
-      "outputPath": "C:\\github\\BlazorApp1\\Client\\obj\\",
+      "outputPath": "C:\\Github\\test\\Client\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\042-katsuya-takagi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -1215,9 +1211,10 @@
       },
       "frameworks": {
         "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "C:\\github\\BlazorApp1\\Shared\\BlazorApp1.Shared.csproj": {
-              "projectPath": "C:\\github\\BlazorApp1\\Shared\\BlazorApp1.Shared.csproj"
+            "C:\\Github\\test\\Shared\\BlazorApp1.Shared.csproj": {
+              "projectPath": "C:\\Github\\test\\Shared\\BlazorApp1.Shared.csproj"
             }
           }
         }
@@ -1230,6 +1227,7 @@
     },
     "frameworks": {
       "netstandard2.1": {
+        "targetAlias": "netstandard2.1",
         "dependencies": {
           "Microsoft.AspNetCore.Blazor.HttpClient": {
             "target": "Package",
@@ -1265,7 +1263,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.118\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

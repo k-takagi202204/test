@@ -36,7 +36,7 @@ C:\Users\042-katsuya-takagi\.nuget\packages\microsoft.aspnetcore.components.weba
 C:\Users\042-katsuya-takagi\.nuget\packages\microsoft.aspnetcore.components.webassembly.runtime\3.2.0-preview2.20159.2\build\netstandard1.0\..\..\tools\dotnetwasm\bcl\System.ComponentModel.DataAnnotations.dll
 C:\Users\042-katsuya-takagi\.nuget\packages\microsoft.aspnetcore.components\3.1.2\lib\netstandard2.0\Microsoft.AspNetCore.Components.dll
 C:\Users\042-katsuya-takagi\.nuget\packages\microsoft.extensions.logging.abstractions\3.1.2\lib\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\042-katsuya-takagi\source\repos\BlazorApp1\Shared\bin\Debug\netstandard2.1\BlazorApp1.Shared.dll
+C:\Github\test\Shared\bin\Debug\netstandard2.1\BlazorApp1.Shared.dll
 C:\Users\042-katsuya-takagi\.nuget\packages\microsoft.aspnetcore.components.webassembly\3.2.0-preview2.20160.5\lib\netstandard2.1\Microsoft.AspNetCore.Components.WebAssembly.dll
 C:\Users\042-katsuya-takagi\.nuget\packages\microsoft.extensions.dependencyinjection\3.1.2\lib\netstandard2.1\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\042-katsuya-takagi\.nuget\packages\microsoft.extensions.configuration\3.1.2\lib\netstandard2.0\Microsoft.Extensions.Configuration.dll
@@ -45,4 +45,4 @@ C:\Users\042-katsuya-takagi\.nuget\packages\microsoft.extensions.configuration.a
 C:\Users\042-katsuya-takagi\.nuget\packages\microsoft.jsinterop\3.1.2\lib\netstandard2.0\Microsoft.JSInterop.dll
 C:\Users\042-katsuya-takagi\.nuget\packages\microsoft.jsinterop.webassembly\3.2.0-preview2.20160.5\lib\netstandard2.1\Microsoft.JSInterop.WebAssembly.dll
 obj\Debug\netstandard2.1\BlazorApp1.Client.pdb
-C:\Users\042-katsuya-takagi\source\repos\BlazorApp1\Shared\bin\Debug\netstandard2.1\BlazorApp1.Shared.pdb
+C:\Github\test\Shared\bin\Debug\netstandard2.1\BlazorApp1.Shared.pdb
