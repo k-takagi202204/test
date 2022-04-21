@@ -14,7 +14,7 @@ namespace BlazorApp1.Client
         public static async Task Main(string[] args)
         {
             //aaaa
-            //aa‚ ‚ ‚ ‚ ‚ 
+            //aa‚ ‚ ‚ ‚ ‚ ‚¢‚¢‚¢‚¢‚¢
 
             var builder = WebAssemblyHostBuilder.CreateDefault(args);
             builder.RootComponents.Add<App>("app");
