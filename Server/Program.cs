@@ -13,6 +13,8 @@ namespace BlazorApp1.Server
     {
         public static void Main(string[] args)
         {
+            //コメントを入れてみた。
+
             CreateHostBuilder(args).Build().Run();
         }
 
